@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e920a6f7-bffb-4ba9-a2af-c089cb24a36f": {
+      "ProjectGuid": "e920a6f7-bffb-4ba9-a2af-c089cb24a36f",
+      "DisplayName": "CouponManagementSystem",
+      "ColorIndex": 0
+    },
+    "e86e3e8b-1451-4c0a-8221-619ea69dbf02": {
+      "ProjectGuid": "e86e3e8b-1451-4c0a-8221-619ea69dbf02",
+      "DisplayName": "UnitTests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b9f8f2f4-be66-43cb-81b0-5b2b6c652e2f": {
+      "ProjectGuid": "b9f8f2f4-be66-43cb-81b0-5b2b6c652e2f",
+      "DisplayName": "InventoryManagementSystem",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
